@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Defteria.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e9d72ba48f57971a37f82731652732d87965e48")]
 [assembly: System.Reflection.AssemblyProductAttribute("Defteria.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Defteria.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
